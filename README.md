@@ -1,2 +1,2 @@
 # blankRepo
-Template for a starter repo for NetBeans
+Template for a starter repo.
